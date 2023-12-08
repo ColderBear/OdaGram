@@ -1,6 +1,6 @@
 This is an Instagram Clone project that I've created 
 
-The project aims to improve my JavaScript skills by practicing manipulating objects and accessing the data within the object.  
+The project aims to fortifies my JavaScript skills by practicing manipulating objects and accessing the data within the object.  
 
 All the posts are rendered and written in javascript with very little HTML to structure the web page
 
