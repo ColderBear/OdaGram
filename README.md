@@ -1,21 +1,22 @@
-# co2274297820a9405442e3a2a
+This is an Instagram Clone project that I've created 
 
-Quick start:
+The project aims to improve my JavaScript skills by practicing manipulating objects and accessing the data within the object.  
 
-```
-$ npm install
-$ npm start
-````
+All the posts are rendered and written in javascript with very little HTML to structure the web page
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Here are the technical skills applied in this project:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Dynamic Content Rendering:
+- The project emphasizes dynamically rendering posts using JavaScript based on the data array (posts).
+- Using a function (renderPosts) allows for efficient and scalable rendering of posts, ensuring a responsive user interface.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+User Interaction with Posts:
+- Including like icons allows users to interact with posts by liking them.
+- Hover effects on the like icon provide a visual cue for users, enhancing the interactive aspect of the application.
 
-Happy Coding!
+Responsive Design:
+- The project pays attention to the responsiveness of the design, ensuring that the layout adapts to different screen sizes and devices.
+- Flexbox is utilized for creating a flexible and visually pleasing layout.
+  
+Array-Based Data Handling:
+- The project focuses on handling post data using an array structure (posts), making it scalable for potential future additions or modifications.
